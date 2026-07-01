@@ -32,7 +32,7 @@ This project demonstrates the fundamentals of RESTful API development by impleme
 ## 📂 Project Structure
 
 ```text
-task4-rest-api/
+task3-rest-api/
 │
 ├── controllers/
 │   └── userController.js
