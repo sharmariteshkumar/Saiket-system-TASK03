@@ -94,7 +94,7 @@ task3-rest-api/
 ### Go to Project Folder
 
 ```bash
-cd task4-rest-api
+cd task3-rest-api
 ```
 
 ### Install Dependencies
@@ -155,9 +155,9 @@ Through this project, I learned:
 
 Full Stack Development Intern
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sharmariteshkumar
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/sharmaritesh19
 
 ---
 
